@@ -10,7 +10,7 @@
   },
   "scripts": {
     "build": "rm -rf ./dist && tsc",
-    "prepublish": "pnpm build"
+    "prepare": "pnpm build"
   },
   "keywords": [],
   "files": [
