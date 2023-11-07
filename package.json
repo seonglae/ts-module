@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/seonglae/ts-module",
   "devDependencies": {
-    "@types/node": "18.18.6",
+    "@types/node": "20.9.0",
     "typescript": "4.9.5"
   }
 }
